@@ -1,4 +1,4 @@
-# ReportGeneration
+# Error Van
 
 A Java-based project for generating JSON reports from CSV data.  
 This project is developed using **Java 17** and tested in **IntelliJ IDEA**.
